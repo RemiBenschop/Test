@@ -1,0 +1,6 @@
+*.csv
+*.xls
+*.pdf
+*.tsv
+*.tsv.gz
+*.Rhistory
