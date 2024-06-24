@@ -37,3 +37,5 @@ if (length(to_be_installed)==0) cat('All packages installed already!\n')
 if (length(to_be_installed)>0) install.packages(to_be_installed, repos = 'https://cloud.r-project.org')
 
 cat('\nDone!\n\n')
+
+# tested
